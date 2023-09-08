@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+<h1>Hi, I am Dias👋</h1>
+<h3>Back-End Golang Developer from KZ/Almaty</h3>
+- 🔭 I’m currently working on Halyk Bank
+- 💬 Ask me about my work or skills
+- 📫 How to reach me: dkubay04@gmail.com
+
 
 <!--
 **KDias-code/KDias-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
